@@ -1,0 +1,12 @@
+apply plugin 'java'
+
+
+dependencies {
+
+ testImplementation 'junit:junit:4.21'
+}
+
+repositories {
+
+	jcenter()
+}
